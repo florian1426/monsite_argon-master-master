@@ -1,9 +1,9 @@
 <template>
-     <footer class="navbar bottom navbar-light bg-custom justify-content-center">
-        <a class="navbar-brand" href="https://www.facebook.com/Fontenayhockey/">
-            <img src="img/brand/facebook.svg" width="30" height="30" class="d-inline-block align-top" alt="">
-            Suivez-nous sur nos pages Facebook du <a href="https://www.facebook.com/Fontenayhockey/"title="facebook du hockey">Hockey</a> ou <a href="https://www.facebook.com/Fontenaydiving/"title="facebook de la plongée">Plongée</a>
-        </a>
+     <footer class="navbar bottom navbar-light bg-custom justify-content-center "  style="background-color: #B6CACB "  id=centrer>
+       
+          <span class="  text-center">  Suivez-nous sur notre pages Facebook <a href="https://www.facebook.com/ActuEnvironnement/?hc_ref=ARTaqHkB5U-vyCPehDmPrVYNk-C3llkbdN-tfa23NgU9kRqN3OWsAPG_3aGPTrmieJUfref=nf__tn__=kC-R" title="facebook environnement"> 
+        
+            <img src="img/brand/facebook.svg" width="30" height="30" class="" alt="fb"> </a></span>
     </footer>
 </template>
 <script>

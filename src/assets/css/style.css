@@ -1,8 +1,49 @@
-.dropdown-item{
-    background-color:#3DB5E3;
-   
+.dropdown-item {
+    background-color: #3DB5E3;
 }
 
-.navbar{
-    background-color: #E94D14;
+.navbar {
+    background-color: rgb(20, 130, 233);
+}
+
+.bordure2 {
+    border: 10px solid #8AA9D9;
+    margin-top: 45px;
+    background-color: #D6E8F9;
+}
+
+.bordure {
+    border: 10px solid #8AA9D9;
+}
+
+.bordure {
+    background-color: #D6E8F9;
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#centrer {
+    display: table;
+    text-align: center;
+    width: 100%;
+    height: 60px;
+}
+
+#centrer span {
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.position {
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    padding-bottom: 50px;
+}
+
+#descendre {
+    margin-top: 20px;
 }

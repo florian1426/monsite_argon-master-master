@@ -1,12 +1,12 @@
 <template>
     <!-- <section class="section section-lg section-shaped overflow-hidden my-0"> -->
     <section>    
-        
+                 
 <b-container-fluid>
-                <div class="bordure2">
+                <div class="bordure">
                 <div class="row featurette">
                 <div class="col-md-7">
-                    <h2 class="featurette-heading" id="descendre">Le role de l'écologie</h2>
+                    <h2 class="featurette-heading">Le role de l'écologie</h2>
             <p class="lead font-weight-bold">Depuis plusieurs décennies maintenant on entend parler de l’écologie, qu’il faut préserver notre plante terre si nous ne voulions pas que la vie disparaisse. L’homme depuis la nuit des temps s’est emparé des ressources sans pour autant se dire qu’un jour tout cela finira. La préservation de la planète passe par divers aspects, diverses actions que vous pouvez faire dans la vie de tous les jours. Si l’avenir de la planète vous tient à cœur, voici comment faire.</p>
                 
                        <h2>Préserver les ressources de la planète</h2>
