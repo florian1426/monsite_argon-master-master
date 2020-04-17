@@ -19,8 +19,8 @@
             </b-nav-item-dropdown>
            
             <b-nav-item-dropdown text="Le role de l'écologie" center>
-                <router-link to="/hockey" class="dropdown-item">Une étude avant tout</router-link>
-                <router-link to="/hockey" class="dropdown-item">avancon ensemble</router-link>
+                <router-link to="/leroledelecologie" class="dropdown-item">Une étude avant tout</router-link>
+                <router-link to="/leroledelecologie" class="dropdown-item">avancon ensemble</router-link>
                 
             </b-nav-item-dropdown>
           

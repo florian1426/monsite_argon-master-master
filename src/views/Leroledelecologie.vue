@@ -20,7 +20,7 @@ Aujourd'hui, c'est dans un contexte de crise écologique globale que cohabitent 
                  
         </div>
         <div class="col-md-5">
-          <img src="img/mountains/natura-2000.jpg" width="100%" height="100%" style="padding: 10px;" alt="la piscine de Fontenay-Trésigny">
+          <img src="img/mountains/natura-2000.jpg" width="100%" height="100%" style="padding: 10px;" alt="natura">
         </div>
     </div>
 </div>

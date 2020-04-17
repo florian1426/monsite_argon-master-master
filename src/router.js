@@ -3,17 +3,16 @@
  import AppHeader from "./layout/AppHeader";
  import AppFooter from "./layout/AppFooter";
  import Accueil from "./views/Accueil.vue";
- import Plongée from "./views/Plongée.vue";
+
  import Calendrier from "./views/Calendrier.vue";
  import Contact from "./views/Contact.vue";
- import Hockey from "./views/Hockey.vue";
+ import Leroledelecologie from "./views/Leroledelecologie.vue";
 
  Vue.use(Router);
 
  export default new Router({
      linkExactActiveClass: "active",
-     routes: [
-         {
+     routes: [{
              path: "/",
              name: "accueil",
              components: {
@@ -23,23 +22,15 @@
              }
          },
          {
-            path: "/accueil",
-            name: "accueil",
-            components: {
-                header: AppHeader,
-                default: Accueil,
-                footer: AppFooter
-            }
-        },
-         {
-             path: "/plongée",
-             name: "plongée",
+             path: "/accueil",
+             name: "accueil",
              components: {
                  header: AppHeader,
-                 default: Plongée,
+                 default: Accueil,
                  footer: AppFooter
              }
          },
+
          {
              path: "/calendrier",
              name: "calendrier",
@@ -59,11 +50,11 @@
              }
          },
          {
-             path: "/hockey",
-             name: "hockey",
+             path: "/leroledelecologie",
+             name: "leroledelecologie",
              components: {
                  header: AppHeader,
-                 default: Hockey,
+                 default: Leroledelecologie,
                  footer: AppFooter
              }
          }
