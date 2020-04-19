@@ -10,10 +10,19 @@
     border: 10px solid #8AA9D9;
     margin-top: 45px;
     background-color: #D6E8F9;
+    padding-left: 10px;
+}
+
+.bordure {
+    border: 10px solid #8AA9D9;
+    background-color: #D6E8F9;
+    padding-left: 10px;
+    float: left;
 }
 
 h2 {
     text-align: center;
+    padding-top: 10px;
 }
 
 #centrer {
@@ -37,4 +46,20 @@ h2 {
 
 #descendre {
     margin-top: 20px;
+}
+
+.leaf {
+    float: right;
+    width: 50%;
+    padding: 10PX;
+}
+
+.natura {
+    padding: 10px;
+    float: right;
+    width: 50%;
+}
+
+.section {
+    background-color: #D6E8F9;
 }

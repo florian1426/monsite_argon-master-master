@@ -4,7 +4,7 @@
        
        
         <div class="container pt-lg-md">
-             <div class="bordure">
+             
             <div class="row justify-content-center ">
                 <div class="col-lg-5">
                     <card type="secondary" shadow
@@ -67,7 +67,7 @@
                 </div>
             </div>
         </div>
-        </div>
+       
     
     </section>
 

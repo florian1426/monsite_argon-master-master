@@ -5,8 +5,9 @@
 <b-container-fluid>
                 <div class="bordure2">
                 <div class="row featurette">
-                <div class="col-md-7">
+                <div class="col-md-12">
                     <h2 class="featurette-heading" id="descendre">Le role de l'écologie</h2>
+                    <img src="img/mountains/natura-2000.jpg"  class="natura" alt="natura">
             <p class="lead font-weight-bold">Depuis plusieurs décennies maintenant on entend parler de l’écologie, qu’il faut préserver notre plante terre si nous ne voulions pas que la vie disparaisse. L’homme depuis la nuit des temps s’est emparé des ressources sans pour autant se dire qu’un jour tout cela finira. La préservation de la planète passe par divers aspects, diverses actions que vous pouvez faire dans la vie de tous les jours. Si l’avenir de la planète vous tient à cœur, voici comment faire.</p>
                 
                        <h2>Préserver les ressources de la planète</h2>
@@ -19,9 +20,9 @@
 Aujourd'hui, c'est dans un contexte de crise écologique globale que cohabitent les deux déclinaisons du terme écologie. Le réchauffement climatique est l'une des manifestations les plus connues de cette crise. Mais il n'est pas le seul. Il faut lui ajouter l'extinction de la biodiversité, la pollution des sols et des eaux, la surexploitation des ressources naturelles, etc. Et l'écologie politique s'alimente des travaux de l'écologie scientifique pour imaginer la transformation des modèles de développement, que ce soit à court, moyen ou plus long terme.</p>
                  
         </div>
-        <div class="col-md-5">
-          <img src="img/mountains/natura-2000.jpg" width="100%" height="100%" style="padding: 10px;" alt="natura">
-        </div>
+        
+          
+        
     </div>
 </div>
    
